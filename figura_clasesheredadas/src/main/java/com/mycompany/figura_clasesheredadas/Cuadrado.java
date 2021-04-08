@@ -10,7 +10,7 @@ package com.mycompany.figura_clasesheredadas;
  * @author joshu
  */
 public class Cuadrado extends bidimensional{
-    public String nombre = "Circulo";
+    public String nombre = "Cuadrado";
     public Cuadrado(){
         super();
     }    
